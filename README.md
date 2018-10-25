@@ -1,2 +1,2 @@
 # nextuhtml
-Para evalucaiones de NextU
+Para evaluaciones de NextU
